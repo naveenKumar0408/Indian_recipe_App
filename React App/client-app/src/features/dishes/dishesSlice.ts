@@ -31,4 +31,3 @@ export const dishesSlice = createSlice({
 });
 
 export default dishesSlice.reducer;
-//module.exports.fetchDishes = fetchDishes;
