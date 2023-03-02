@@ -1,8 +1,8 @@
-# Getting Started with Indian-Dishes App
+# Getting Started with Indian-Recipe App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Scripts
 
 In the React Project directory, you can run:
 

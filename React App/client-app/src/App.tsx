@@ -1,11 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  useNavigate,
-} from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import DishDetails from "./Components/DishesDetails";
 import DishesList from "./Components/DishesList";
 import DishSuggester from "./Components/DishSuggester";
